@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Loading Test" language="en" table="x_232741_needit_loading_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Loading Test</label>
+            <language>en</language>
+            <name>x_232741_needit_loading_test</name>
+            <plural>Loading Tests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-21 16:32:35</sys_created_on>
+            <sys_id>9a479cf1db2133000842da75ca9619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Loading Test</sys_name>
+            <sys_package display_value="NeedIT" source="x_232741_needit">9538d0d9db1133000842da75ca961988</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIT">9538d0d9db1133000842da75ca961988</sys_scope>
+            <sys_update_name>sys_documentation_x_232741_needit_loading_test__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-21 16:32:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
